@@ -1,1 +1,1 @@
-place: Chennai Python source code and installers are available for download for all versions! Latest: Python 3.14.7. Docs. Documentation for Python's standard library.
+place: ChennaiPython source code and installers are available for download for all versions! Latest: Python 3.14.7. Docs. Documentation for Python's standard library.
