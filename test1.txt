@@ -1,1 +1,2 @@
-ChennaiPython source code and installers are available for download for all versions! Latest: Python 3.14.7. Docs. Documentation for Python's standard library.
+To write a "Hello, World!" program in Python, you only need one single line of code: [1] (https://www.geeksforgeeks.org/python/python-program-to-print-hello-world/)pythonprint("Hello, World!")
+Use code with caution.
